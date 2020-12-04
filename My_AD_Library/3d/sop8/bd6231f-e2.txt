@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-25062018-111463";"";
+"REFERENCE";"BD6231F-E2";"";
+"TraceParts.PartTitle";"H-bridge Driver 36V 1A Brush Motor SOP8";"";
+"TraceParts.InstanceId";"10-25062018-11146366VCE29D3SS7YXN5E3YTARGIF";"";
+"DESIGN";"H-bridge Driver 36V 1A Brush Motor SOP8";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ROHM Semiconductor";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ROHM_SC:10-25062018-111463";"";

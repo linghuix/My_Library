@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.1.1";"";
+"SUPPLIER";"Rohm";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-05022013-114624";"";
+"TraceParts.PartLanguage";"zh";"";
+"DESIGN";"ROHM 8位 串行/并行 移位寄存器, 单向, 16引脚 SOP封装";"";
+"TraceParts.InstanceId";"10-05022013-1146241GN988RTH9JH98ZF75LLC7C6X";"";
+"TraceParts.PartTitle";"ROHM 8位 串行/并行 移位寄存器, 单向, 16引脚 SOP封装";"";
+"REFERENCE";"BU4094BCF-E2";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/7317015?cm_mmc=en-ds-_-mcad-_-traceparts-_-7317015'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"rs_stock_number";"7317015";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-05022013-114624";"";

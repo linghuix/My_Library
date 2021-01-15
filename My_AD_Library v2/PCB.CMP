@@ -1,0 +1,15 @@
+Component   : 4shuma
+PCB Library : PCB.PcbLib
+Date        : 2022/2/20
+Time        : 9:59:10
+
+
+
+Dimension : 28.448 x 11.303 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                12          0        0       0        0
+ Top Overlay                 0          4        0       0        0
+--------------------------------------------------------------------
+ Total                      12          4        0       0        0
